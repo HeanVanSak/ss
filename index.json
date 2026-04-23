@@ -1,88 +1,72 @@
 [
-
-  {
-    "id": "1",
-    "name": "Orange Juice",
-    "description": "Freshly squeezed orange juice rich in vitamin C",
-    "price": 2.50,
-    "image": "https://i.pinimg.com/736x/f8/56/5b/f8565b7442a9df396adc387c8555d8b4.jpg"
-  },
-  {
-    "id": "2",
-    "name": "Apple Juice",
-    "description": "Sweet and refreshing apple juice",
-    "price": 2.20,
-    "image": "https://i.pinimg.com/1200x/68/21/96/682196eabce95c2292e600b2f2fbcbc6.jpg"
-  },
-  {
-    "id": "3",
-    "name": "Mango Juice",
-    "description": "Tropical mango juice with natural sweetness",
-    "price": 3.00,
-    "image": "https://i.pinimg.com/736x/53/29/6b/53296b5f51fb8b740a3bf1ff7d8d0b84.jpg"
-  },
-  {
-    "id": "4",
-    "name": "Pineapple Juice",
-    "description": "Tangy and refreshing pineapple juice",
-    "price": 2.80,
-    "image": "https://i.pinimg.com/1200x/48/61/2b/48612ba38d3c44e0f8166ffffddc3ea2.jpg"
-  },
-  {
-    "id": "5",
-    "name": "Watermelon Juice",
-    "description": "Cool and hydrating watermelon juice",
-    "price": 2.40,
-    "image": "https://i.pinimg.com/736x/a5/bc/4d/a5bc4d908e445da4aaa07f5a3eb4c00e.jpg"
-  },
-  {
-    "id": "6",
-    "name": "Strawberry Juice",
-    "description": "Delicious strawberry juice with a sweet flavor",
-    "price": 3.20,
-    "image": "https://i.pinimg.com/1200x/de/8c/f8/de8cf8a8083c35303df7b979f0085d23.jpg"
-  },
-  {
-    "id": "7",
-    "name": "Grape Juice",
-    "description": "Rich and flavorful grape juice",
-    "price": 2.90,
-    "image": "https://i.pinimg.com/736x/2a/c8/56/2ac8561d94a502a37e5bf7b9d1a36175.jpg"
-  },
-  {
-    "id": "8",
-    "name": "Lemon Juice",
-    "description": "Zesty lemon juice perfect for refreshment",
-    "price": 1.80,
-    "image": "https://i.pinimg.com/1200x/ff/02/5b/ff025bc01db3a954679604c06cd73b00.jpg"
-  },
-  {
-    "id": "9",
-    "name": "Carrot Juice",
-    "description": "Healthy carrot juice packed with nutrients",
-    "price": 2.60,
-    "image": "https://i.pinimg.com/1200x/b7/ae/8f/b7ae8f489105132aa1a60d3d6145237d.jpg"
-  },
-  {
-    "id": "10",
-    "name": "Mixed Fruit Juice",
-    "description": "A blend of fresh fruits for a balanced taste",
-    "price": 3.50,
-    "image": "https://i.pinimg.com/1200x/07/64/a6/0764a653192a11d809a6f7849bf28e84.jpg"
-  },
-  {
-    "id": "11",
-    "name": "Cranberry Juice",
-    "description": "Tart and refreshing cranberry juice",
-    "price": 2.70,
-    "image": "https://i.pinimg.com/736x/b2/dd/45/b2dd456ef53ba0971f55ef14cf8c061b.jpg"
-  },
-  {
-    "id": "12",
-    "name": "Peach Juice",
-    "description": "Sweet and juicy peach juice",
-    "price": 3.00,
-    "image": "https://i.pinimg.com/1200x/0b/e2/fb/0be2fbcedaefc9453ef97af57603bbcf.jpg"
-  }
-
-]   
+    {
+        "Id": 1,
+        "Name": "Coca Cola",
+        "description": "Classic carbonated cola drink",
+        "price": 1.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfm4emptOeV7JJ4gTCaV5dpwLZa3sgDUnwtA&s"
+    },
+    {
+        "Id": 2,
+        "Name": "Orange Juice",
+        "description": "Fresh squeezed orange juice",
+        "price": 2.0,
+        "image": "https://rita.com.vn/images/2024/Products/Fruit-juice/Orange-pulp/1L_pet_bottle_Orange_juice_with_Pulp_Drink_Natural.webp"
+    },
+    {
+        "Id": 3,
+        "Name": "Lemonade",
+        "description": "Refreshing lemon flavored drink",
+        "price": 1.2,
+        "image": "https://i5.walmartimages.com/asr/1e792402-76b7-4042-b86d-8c2df1bfabd7.394d654cddde3e416f32399230b58182.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "Id": 4,
+        "Name": "Iced Coffee",
+        "description": "Cold brewed coffee with ice",
+        "price": 2.5,
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/2025/05/how-to-make-iced-coffee-at-home.jpg"
+    },
+    {
+        "Id": 5,
+        "Name": "Strawberry Smoothie",
+        "description": "Blended strawberry and milk drink",
+        "price": 3.0,
+        "image": "https://foodsharingvegan.com/wp-content/uploads/2022/03/Strawberry-Yogurt-Smoothie-Plant-Based-on-a-Budget-1-2.jpg"
+    },
+    {
+        "Id": 6,
+        "Name": "Green Tea",
+        "description": "Healthy hot green tea beverage",
+        "price": 1.0,
+        "image": "https://marveltea.com/cdn/shop/files/Lemon_Green_Tea_Bagt_940x-min_1e8ad299-685c-4133-ab92-44f68033296d_grande.webp?v=1724847740"
+    },
+    {
+        "Id": 7,
+        "Name": "Mango Juice",
+        "description": "Sweet tropical mango drink",
+        "price": 2.2,
+        "image": "https://myfoodstory.com/wp-content/uploads/2024/05/Mango-Juice-4-500x500.jpg"
+    },
+    {
+        "Id": 8,
+        "Name": "Milkshake",
+        "description": "Creamy vanilla milkshake",
+        "price": 3.5,
+        "image": "https://tastesofhomemade.com/wp-content/uploads/2022/05/Twix-Milkshake-4.jpg"
+    },
+    {
+        "Id": 9,
+        "Name": "Mineral Water",
+        "description": "Pure bottled mineral water",
+        "price": 0.8,
+        "image": "https://png.pngtree.com/png-clipart/20241121/original/pngtree-mineral-water-bottles-png-image_17283269.png"
+    },
+    {
+        "Id": 10,
+        "Name": "Energy Drink",
+        "description": "Boosting caffeinated energy drink",
+        "price": 2.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklCs-m9EBug9dOG7Y0y_7qcpsrQtUxvytNA&s"
+    }
+]
